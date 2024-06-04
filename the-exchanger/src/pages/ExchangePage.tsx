@@ -1,4 +1,3 @@
-import React from "react";
 import React, { useState, useEffect } from "react";
 import CurrencyInput from "../components/CurrencyInput";
 import ExchangeRate from "../components/ExchangeRate";

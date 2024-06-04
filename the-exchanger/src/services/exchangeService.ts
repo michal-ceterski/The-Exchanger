@@ -9,3 +9,6 @@ export const getExchangeRate = async (
   const response = await axios.get(`${API_URL}${baseCurrency}`);
   return response.data.rates[targetCurrency];
 };
+
+// Przepisać to na bibliotekę SWR lub ReactQuery. Sprawdzić, czego użyć, do jakich problemów są stosowane.
+// Nie używać useEffect do pobierania danych.
