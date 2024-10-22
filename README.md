@@ -5,7 +5,7 @@ Made with: React on Redux, TypeScript, Tailwind, ShadCN.
 
 TO DO LIST:
 - proper scaffolding for the website (HTML, TS/types, components, Routing),
-- backend database,
+- backend database (consideration: SQL/MySQL, PHP, cloud services - Firebase, Netlify, etc.),
 - important: GDPR/RODO info, cookies, etc. as a pop-up,
 - user register and log-in,
 - e-mail verification for registration,
